@@ -9,8 +9,8 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 ## Example
-![alt text](https://github.com/estebanfern/CalculadoraSwing/blob/[main]/example.png?raw=true)
+![alt text](https://github.com/estebanfern/CalculadoraSwing/blob/main/example.png?raw=true)
 
 ## Result
-![alt text](https://github.com/estebanfern/CalculadoraSwing/blob/[main]/result.png?raw=true)
+![alt text](https://github.com/estebanfern/CalculadoraSwing/blob/main/result.png?raw=true)
 
